@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yashodeep  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yashodeep%20Hundiwale&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=E6E6FA&width=600&lines=AI+Engineer+in+Progress;Data+Science+Enthusiast;Building+AI+Agents+%26+Automation+Systems;Python+Developer" />
 </p>
 
@@ -29,6 +29,14 @@ Building intelligent systems using **LLMs, automation frameworks, and agent-base
 
 ### 🐍 Python Ecosystem
 ---
+
+## 🧰 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,sklearn,git,github,vscode,linux,tensorflow,pytorch,django" />
+
+</p>
 
 # 🧠 Current Focus
 
@@ -74,3 +82,5 @@ Building intelligent systems using **LLMs, automation frameworks, and agent-base
 # 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codewithyasho)
+
+
