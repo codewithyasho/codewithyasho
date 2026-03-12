@@ -44,6 +44,8 @@ Building intelligent systems using **LLMs, automation frameworks, and agent-base
 
 **LinkedIn:** www.linkedin.com/in/yashodeep-hundiwale-609029280 
 
+**Portfolio:** https://yashodeep.me/
+
 **Email:** yashodeephundiwale@gmail.com
 
 ---
