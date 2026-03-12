@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashodeep  
 
-<!--
-**codewithyasho/codewithyasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer in Progress | Data Science Enthusiast | Builder of Intelligent Systems
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about **Artificial Intelligence, Data Science, and intelligent automation systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical AI tools using **machine learning, LLMs, and Python**, focusing on solving real-world problems through data and intelligent software systems.
+
+My goal is to become a **job-ready AI Engineer** while building impactful open-source projects.
+
+---
+
+# 🚀 What I Work On
+
+### 🤖 Artificial Intelligence & AI Agents
+Building intelligent systems using **LLMs, automation frameworks, and agent-based architectures**.
+
+- LangChain  
+- LangGraph  
+- Ollama  
+- CrewAI  
+- AutoGen  
+- n8n  
+- Langflow  
+
+### 📊 Data Science & Machine Learning
+
+### 🐍 Python Ecosystem
+---
+
+# 🧠 Current Focus
+
+- Building **AI-powered applications**
+- Learning **Deep Learning**
+- Developing **AI agents and automation systems**
+- Creating **end-to-end AI projects**
+- Preparing to become a **Professional AI Engineer**
+
+---
+
+# 📫 Connect With Me
+
+**GitHub:** https://github.com/codewithyasho  
+
+**LinkedIn:** www.linkedin.com/in/yashodeep-hundiwale-609029280 
+
+**Email:** yashodeephundiwale@gmail.com
+
+---
+
+⭐ If you like AI, data science, or automation systems, feel free to explore my repositories.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithyasho&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyasho&layout=compact)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codewithyasho)
+
+---
+
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=codewithyasho)
