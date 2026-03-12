@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Yashodeep  
 
-### AI Engineer in Progress | Data Science Enthusiast | Builder of Intelligent Systems
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=E6E6FA&width=600&lines=AI+Engineer+in+Progress;Data+Science+Enthusiast;Building+AI+Agents+%26+Automation+Systems;Python+Developer" />
+</p>
 
 I am a Computer Science student passionate about **Artificial Intelligence, Data Science, and intelligent automation systems**.  
 
